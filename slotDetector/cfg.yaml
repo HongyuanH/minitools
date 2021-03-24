@@ -1,0 +1,15 @@
+---
+# set to true for the first time and do a normal sign-in using the Chrome pop-up window
+# set to false afterwords so that Chrome can auto login and find slots
+first_time: true 
+
+# email address for sending notifications
+email: '{YOUR EMAIL ADDRESS}' 
+
+# password for the above email
+passwd: '{YOUR EMAIL PASSWORD}' 
+
+# email list for receiving notifications
+send_to: 
+  - '{EMAIL ADDRESS #1}' 
+  - '{EMAIl ADDRESS #2}'
